@@ -53,4 +53,4 @@
   - 📊 Votes & Popularity Analysis
     
 # Dashboard Screenshot Link :
-https://github.com/Chaitanya-kumar13/Netflix-Dahboard/blob/main/Screenshot%202025-12-17%20131620.png
+  - https://github.com/Chaitanya-kumar13/IMDB-Ratings-Analysis/blob/main/IMDB.png
